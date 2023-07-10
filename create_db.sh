@@ -1,1 +1,1 @@
-docker run -p 5433:5432 --name dby -e POSTGRES_PASSWORD=12345 -e POSTGRES_DB=dby postgres
+docker run -p 5433:5432 --name dby -d -e POSTGRES_PASSWORD=12345 -e POSTGRES_DB=dby postgres
