@@ -42,7 +42,7 @@ dbmg sql/create.sql
 ```
 drop table with sql/drop.sql
 ```
-dbmg sql.drop.sql
+dbmg sql/drop.sql
 ```
 
 # Verify
