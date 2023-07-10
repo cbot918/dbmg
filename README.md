@@ -7,7 +7,7 @@ a simple and minimal db migrate tool using in small personal side-project
 
 # Install
 ```
-bash <(curl -s https://raw.githubusercontent.com/cbot918/gob/main/installer/install_linux.sh)
+bash <(curl -s https://raw.githubusercontent.com/cbot918/dbmg/main/installer/install_in_linux.sh)
 ```
 
 # Usecase
