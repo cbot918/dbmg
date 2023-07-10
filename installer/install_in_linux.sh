@@ -1,4 +1,4 @@
-curl -OL https://github.com/cbot918/gob/releases/download/v1.0.1/gob
-sudo chmod +x gob
-sudo mv gob /usr/local/bin
+curl -OL https://github.com/cbot918/dbmg/releases/download/v0.0.1/dbmg
+sudo chmod +x dbmg
+sudo mv dbmg /usr/local/bin
 echo "install successful"
